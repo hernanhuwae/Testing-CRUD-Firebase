@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "996428957723",
+    "project_id": "ndnloginsuksesdatabase",
+    "storage_bucket": "ndnloginsuksesdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996428957723:android:0c1a4eded2c179b75190be",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crud_testing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996428957723-k9tlfk2nq14eb2kfdehqoqc1ljvq7k3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQzQCZ62C68QGXsa53zMOWaH6SbL9nnZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996428957723-k9tlfk2nq14eb2kfdehqoqc1ljvq7k3a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "996428957723-in7ib0krokonp723ui3m4jmtosopb2oq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseCrudTesting"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
